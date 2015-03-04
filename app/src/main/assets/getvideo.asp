@@ -1,0 +1,18 @@
+{
+    "header":{
+        "rescd":"000",
+        "resmsg":"Á¤»ó",
+        "contentid":"2859059679"
+    },
+    "data":{
+        "contenturl":"http://www.xenomobile.co.kr/movie/mp4/2859059679.mp4",
+        "position":"10",
+        "savemode":"2",
+        "controlstatus":"1",
+        "etcdata1":"",
+        "etcdata2":"",
+        "etcdata3":"",
+        "etcdata4":"",
+        "etcdata5":""
+    }
+}
